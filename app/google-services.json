@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "89478598036",
+    "firebase_url": "https://movementtrackerapp-e53fc.firebaseio.com",
+    "project_id": "movementtrackerapp-e53fc",
+    "storage_bucket": "movementtrackerapp-e53fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89478598036:android:dbb4f35f195ec1f7dd5381",
+        "android_client_info": {
+          "package_name": "com.shubham.movementtrackerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89478598036-49qo8nqfb4n60ghg775k6mavkn9r9hu0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9-U5WlDzFVF1_Hbi-FTIUt_Ub1hZ7cgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89478598036-49qo8nqfb4n60ghg775k6mavkn9r9hu0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
